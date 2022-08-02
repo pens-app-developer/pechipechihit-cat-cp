@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">にゃんにゃんペチペチHit!</string>
+
+    <!-- AdMob App ID: ca-app-pub-6484092924300311~4510341137 -->
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ad_app_id">ca-app-pub-6484092924300311~4510341137</string>
+
+    <!-- Ad Unit ID banner: ca-app-pub-6484092924300311/5034027262 -->
+    <!-- Sample Ad Unit ID banner: ca-app-pub-3940256099942544/6300978111 -->
+    <string name="ad_unit_id_banner">ca-app-pub-6484092924300311/5034027262</string>
+
+    <!-- Ad Unit ID interstitial: ca-app-pub-6484092924300311/7277047224 -->
+    <!-- Sample Ad Unit ID interstitial: ca-app-pub-3940256099942544/1033173712 -->
+    <string name="ad_unit_id_interstitial">ca-app-pub-6484092924300311/7277047224</string>
+
+    <string name="title_stage_close">？？？</string>
+    <string name="title_stage_1">STAGE 1</string>
+    <string name="title_stage_2">STAGE 2</string>
+    <string name="title_stage_3">STAGE 3</string>
+    <string name="title_stage_4">STAGE 4</string>
+    <string name="title_stage_5">STAGE 5</string>
+    <string name="title_stage_6">STAGE 6</string>
+
+    <string name="stage_1">くろねこ</string>
+    <string name="stage_2">チーター</string>
+    <string name="stage_3">とら</string>
+    <string name="stage_4">ライオン</string>
+    <string name="stage_5">サーベルタイガー</string>
+    <string name="stage_6">ねこまた</string>
+
+    <string name="stage_view_ad">※ステージ開始前に広告が表示されます</string>
+
+    <string name="credit">クレジット</string>
+    <string name="credit_in_text">
+        企画・開発\nP.EN.S co., Ltd.
+    </string>
+
+    <string name="score_list">スコア履歴</string>
+    <string name="score">スコア</string>
+    <string name="score_1">1st</string>
+    <string name="score_2">2nd</string>
+    <string name="score_3">3rd</string>
+
+    <string name="best_score_title">ベストスコア：</string>
+    <string name="now_score_title">今回のスコア：</string>
+    <string name="new_record">新記録</string>
+
+    <string name="tutorial">チュートリアル</string>
+    <string name="tutorial_1">にゃんにゃんをペチペチしよう\n\nいっぱいペチペチするとこっちに興味を持ってくれるよ</string>
+    <string name="tutorial_2">上のゲージが溜まったら成功\n\n可愛い顔を見せてくれるよ</string>
+    <string name="tutorial_3">下のゲージが溜まったら失敗\n\ねちゃうから気をつけて</string>
+    <string name="tutorial_4">いろんなにゃんにゃんを\nいっぱいペチペチしちゃおう</string>
+
+    <string name="copyright">© 2020 P.EN.S co., Ltd.</string>
+</resources>
